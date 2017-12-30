@@ -3,5 +3,8 @@ This repository contains simulations of various algorithms
 
 # Chaos Game
 <p align="center">
-  <a href=" [![Alt text](https://i.ytimg.com/vi/xAdveCc689k/hqdefault.jpg)](https://www.youtube.com/watch?v=xAdveCc689k)"></a>
+  <b>Some Links:</b><br>
+  <a href="https://www.youtube.com/watch?v=xAdveCc689k">Link</a>
+  <br><br>
+  <img src="https://i.ytimg.com/vi/xAdveCc689k/hqdefault.jpg">
 </p>
