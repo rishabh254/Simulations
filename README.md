@@ -1,6 +1,11 @@
 # Simulations
 This repository contains simulations of various algorithms 
 
+# A-star 
+In computer science, A* (pronounced as "A star") is a computer algorithm that is widely used in pathfinding and graph traversal, the process of plotting an efficiently directed path between multiple points, called nodes.
+
+More info : https://en.wikipedia.org/wiki/A*_search_algorithm
+
 # Chaos Game
 In mathematics, the term chaos game originally referred to a method of creating a fractal, using a polygon and an initial point selected at random inside it. 
 
