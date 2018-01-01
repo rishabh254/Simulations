@@ -4,7 +4,7 @@ This repository contains simulations of various algorithms
 # Chaos Game
 In mathematics, the term chaos game originally referred to a method of creating a fractal, using a polygon and an initial point selected at random inside it. 
 
-More info :  https://en.wikipedia.org/wiki/Chaos_game
+More info :  https://en.wikipedia.org/wiki/Chaos_game <br>
 Youtube link : below thumbnail
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xAdveCc689k"><img width="70%" height ="70%" src="https://user-images.githubusercontent.com/8913742/34451221-ee1d669e-ed45-11e7-889c-2ad55e50fb0b.png"></a>
