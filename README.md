@@ -17,6 +17,13 @@ Youtube link : below thumbnail
   
 </p>
 
+# Chord protocol
+In computing, Chord is a protocol and algorithm for a peer-to-peer distributed hash table. A distributed hash table stores key-value pairs by assigning keys to different computers (known as "nodes"); a node will store the values for all the keys for which it is responsible. Chord specifies how keys are assigned to nodes, and how a node can discover the value for a given key by first locating the node responsible for that key.
+
+You can read the paper on chord protocol here : [Chord: A Scalable Peer-to-peer Lookup Protocol
+for Internet Applications
+](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf)
+
 # Quine McCluskey
 
 The Quine–McCluskey algorithm (or the method of prime implicants) is a method used for minimization of Boolean functions that was developed by Willard V. Quine and extended by Edward J. McCluskey. It is functionally identical to Karnaugh mapping, but the tabular form makes it more efficient for use in computer algorithms, and it also gives a deterministic way to check that the minimal form of a Boolean function has been reached. It is sometimes referred to as the tabulation method.
