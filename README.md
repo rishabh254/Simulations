@@ -24,6 +24,11 @@ You can read the paper on chord protocol here : [Chord: A Scalable Peer-to-peer 
 for Internet Applications
 ](https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf)
 
+## Acknowledgments
+
+Ion Stoica†, Robert Morris‡, David Liben-Nowell‡, David R. Karger‡, M. Frans Kaashoek‡, Frank Dabek‡, Hari Balakrishnan‡
+
+
 # Quine McCluskey
 
 The Quine–McCluskey algorithm (or the method of prime implicants) is a method used for minimization of Boolean functions that was developed by Willard V. Quine and extended by Edward J. McCluskey. It is functionally identical to Karnaugh mapping, but the tabular form makes it more efficient for use in computer algorithms, and it also gives a deterministic way to check that the minimal form of a Boolean function has been reached. It is sometimes referred to as the tabulation method.
